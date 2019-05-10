@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "418983571225",
+    "firebase_url": "https://navdr-bdfdf.firebaseio.com",
+    "project_id": "navdr-bdfdf",
+    "storage_bucket": "navdr-bdfdf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418983571225:android:511ae813d4a0f9f0",
+        "android_client_info": {
+          "package_name": "com.example.rushilkhattar.navdr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418983571225-ro8rj3ee04jc49o0pejc5an1o5ufd6ll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rushilkhattar.navdr",
+            "certificate_hash": "f34ec0c3b18ba3e2900f5d8a014cb81bbd78a002"
+          }
+        },
+        {
+          "client_id": "418983571225-nt4h316jug28jeghcekcf012lsh4vaor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-JRhQXWPl_-j3F4EmrBI-2YaEnwxdyAs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "418983571225-nt4h316jug28jeghcekcf012lsh4vaor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
